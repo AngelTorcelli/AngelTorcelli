@@ -81,10 +81,7 @@
 
 ###
 <img align="left" height="200" src="https://github.com/AngelTorcelli/AngelTorcelli/blob/main/.github/cat.jpg?raw=true"  />
-<div align="right">
-  <img src="https://streak-stats.demolab.com?user=AngelTorcelli&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 
-</div>
 
 ###
 
